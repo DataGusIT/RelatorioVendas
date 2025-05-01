@@ -3,7 +3,7 @@
 Bem-vindo ao **Dashboard de Análise de Vendas**! 🚀 Este painel interativo foi desenvolvido para oferecer uma visão completa do desempenho comercial da empresa. Com ele, você poderá acompanhar métricas essenciais como receita total, pedidos, itens vendidos e muito mais, promovendo decisões mais estratégicas e embasadas. 📊
 
 ## 📸 **Preview do Dashboard**
-![Image](https://github.com/user-attachments/assets/seu-dashboard-preview.png)
+![Image](![Image](https://github.com/user-attachments/assets/c198276a-0e24-43d0-b28e-3ff9767a63c0))
 
 ## 📌 Visão Geral
 Este dashboard foi construído no **Power BI** com o objetivo de facilitar o monitoramento das principais métricas de vendas da empresa, permitindo uma análise clara e eficiente de:
