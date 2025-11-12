@@ -3,7 +3,7 @@
 
 > Painel de controle interativo em Power BI para análise de performance de vendas. Monitore a receita, pedidos, desempenho de vendedores e tendências de mercado para impulsionar decisões estratégicas.
 
-[![Status](https://img-shields.io/badge/Status-Concluído-success)](https://github.com/DataGusIT/powerbi-vendas-dashboard)
+[![Status](https://img.shields.io/badge/Status-Concluído-success)](https://github.com/seu-usuario/powerbi-rh-dashboard)
 [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811)](https://powerbi.microsoft.com/)
 [![DAX](https://img.shields.io/badge/DAX-Fórmulas-000000)](https://learn.microsoft.com/pt-br/dax/)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
